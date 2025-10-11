@@ -1,5 +1,5 @@
 ---
-title: "Getting Started with Our Platform"
+title: "Getting Started with Our Platforms"
 date: "2025-01-15"
 author: "john-doe"
 excerpt: "Learn how to get started with our platform in just a few minutes."
