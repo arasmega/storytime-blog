@@ -39,7 +39,7 @@ This is especially brutal for young children because young children tend to beco
 ## How Apps Hook Your Kids: The Design Tricks You Need to Know
 Let's peek behind the curtain at how these apps work. Games are masters at giving us a sense of competence. They start with easy tasks, and early success triggers dopamine. Games rely on core loops: repetitive actions like collecting resources, followed by rewards.
 
-Here's what this looks like in practice:
+###Here's what this looks like in practice:
 
 **YouTube Kids and the Endless Scroll:** That autoplay feature? It's not for your convenience. It removes natural stopping points, keeping content flowing without any parent input. Your child literally cannot stop themselves because the app never gives them a chance to. It's like if someone kept refilling your coffee cup every time you took a sip—you'd never actually finish the cup, and you'd be vibrating by lunchtime.
 
@@ -48,3 +48,21 @@ Here's what this looks like in practice:
 **Parasocial Relationships:** Character-based apps create emotional attachment through parasocial relationships with characters. Your child doesn't just like Elsa or Bluey—they feel like these characters are their friends. When you turn off the app, it feels like you're forcing them to leave their friends. The app designers know this. They're counting on it.
 
 **The Confetti Cannon Effect:** Every tap gets a reward. Cheerful sounds, stars, animated celebrations. Reward sounds create dopamine hits every few seconds. Compare this to real life: when your child stacks blocks, they get satisfaction maybe once when the tower is complete. The app gives them that same hit every single time they tap the screen. Real life can't compete with that reward schedule, and it's not supposed to have to.
+
+## The Age Factor: Why 0-7 Is Especially Dangerous
+
+If you're a first-time parent with a young child, you have both a massive disadvantage and a huge advantage. The disadvantage? Young children's self-regulation systems are completely underdeveloped, making them maximally vulnerable to addictive design.
+
+But here's your advantage: unlike parents of older kids who must break established addictions, you can set healthy patterns from day one. The habits you establish now—before age 7—will literally shape the structure of your child's brain. This is the most neuroplastic period of their entire life.
+
+The constant influx of dopamine from screen interactions can leave children in a state of hyper-arousal, making it difficult for them to calm down or self-soothe. This heightened emotional agitation can lead to increased anxiety, frustration, and difficulty coping with everyday stressors.
+
+### For a toddler, this looks like:
+
+- Can't sit through a meal without a screen
+- Melts down during car rides without videos
+- Can't fall asleep without an iPad
+- Refuses to play with regular toys
+- Has trouble transitioning between activities
+
+These aren't personality traits. They're symptoms of a dysregulated dopamine system.
