@@ -6,7 +6,7 @@ author: "zulfadhli"
 excerpt: "What parents need to know on why screen time can be addictive"
 tags: ["Screen Addiction"]
 series: "Healthy Screens"
-image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+image: "https://images.unsplash.com/photo-1620415064072-914373a92515"
 ---
 
 Let me paint you a picture. It's 6 PM. You're trying to cook dinner while simultaneously preventing your three-year-old from using the cat as a stepping stool. You hand over the iPad with some "educational" app—the one with the friendly cartoon characters that promises to teach letters and numbers. Peace, finally.
