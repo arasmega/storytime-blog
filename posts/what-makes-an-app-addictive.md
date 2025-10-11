@@ -3,8 +3,9 @@ title: "What Makes an App Addictive?"
 subtitle: "(Or: Why your toddler treats the iPad like a slot machine)"
 date: "2025-10-11"
 author: "zulfadhli"
-excerpt: "Learn how to get started with our platform in just a few minutes."
-tags: ["Healthy Screens"]
+excerpt: "What parents need to know on why screen time can be addictive"
+tags: ["Screen Addiction"]
+series: "Healthy Screens"
 image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
 ---
 
