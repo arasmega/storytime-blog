@@ -19,6 +19,7 @@ Welcome to the world of addictive app design, where the games are rigged and you
 
 Here's what's happening inside that adorable little head: your child's brain is basically a construction site. During ages 0-7, the brain is building its fundamental architecture—laying down the neural pathways that will shape how they think, feel, and behave for the rest of their lives.
 
+
 Dopamine in young children reinforces essential survival activities and fuels curiosity-driven exploration, but their self-regulation systems are completely underdeveloped. Translation? Your toddler's brain has a gas pedal (dopamine) but no brakes (impulse control). It's like giving someone a Ferrari before they learn what "red light" means.
 
 Now here's where it gets scary: gaming releases so much dopamine that on brain scans, it looks the same as cocaine use. When I first read that, I had to put down my coffee. We're not talking about a little chemical bump here—we're talking about cocaine-level dopamine floods. In a three-year-old's brain.
