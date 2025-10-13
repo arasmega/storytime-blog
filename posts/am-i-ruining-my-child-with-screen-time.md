@@ -17,8 +17,6 @@ Most kids' apps are designed the same way slot machines are - to keep your child
 
 It's not a parenting failure. It's a design problem.
 
----
-
 ## So how do I know which apps are harmful?
 
 Here are the red flags that make apps addictive and overstimulating:
@@ -32,8 +30,6 @@ If the app your child uses has even one of these, you're dealing with design cho
 
 [Want the full list? Read more about app red flags →]
 
----
-
 ## How is Storytime different?
 
 Instead of red flags, we built Storytime with green flags:
@@ -46,8 +42,6 @@ Instead of red flags, we built Storytime with green flags:
 Storytime isn't just "better" - it's built differently from the ground up. It's a digital playground for creativity, not a system designed to capture attention at any cost.
 
 **[Start Your Free 7-Day Trial →]**
-
----
 
 ## But how do I know it actually works?
 
@@ -67,8 +61,6 @@ Some parents even say it's "boring" - and honestly? That's the highest complimen
 
 **[Try It Free for 7 Days →]**
 
----
-
 ## What if I forget to cancel?
 
 You won't need to worry about that.
@@ -80,8 +72,6 @@ If Storytime works for your family, you can start a subscription right away:
 - **RM99/year** (save over 15%)
 
 If it doesn't work? The trial just ends. No hassle, no follow-up, no guilt.
-
----
 
 ## Why start today?
 
