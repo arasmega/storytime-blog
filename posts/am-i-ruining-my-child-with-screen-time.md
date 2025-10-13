@@ -85,7 +85,5 @@ The only question is: Why wait to find out if this works?
 
 **[Start Your Free 7-Day Trial - No Credit Card Required →]**
 
----
-
 ### Available on iOS and Android
 [App Store button] [Google Play button]
