@@ -3,7 +3,7 @@ title: "Am I ruining my child with screen time?"
 subtitle: 'The truth is, it's not you! It's the app'
 date: "2025-10-13"
 author: "zulfadhli"
-excerpt: "Most kids' apps are designed the same way slot machines are - to keep your child hooked, overstimulated, and asking for "just one more." "
+excerpt: "Most kids' apps are designed the same way slot machines are - to keep your child hooked, overstimulated, and asking for 'just one more.'"
 tags: ["Screen Time Addiction", "Green Flags"]
 series: "Healthy Screens"
 image: "https://images.unsplash.com/photo-1506704810770-7e9bbab1094b"
