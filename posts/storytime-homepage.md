@@ -12,13 +12,10 @@ It's not a parenting failure. It's a design problem.
 
 Here are the red flags that make apps addictive and overstimulating:
 
-❌ **Autoplay features** - Removes natural stopping points, making it nearly impossible for kids to stop on their own
-
-❌ **Fast-paced scene changes** - Overstimulates young brains and prevents them from processing what they're seeing
-
-❌ **Loud, jarring sounds** - Keeps their arousal level high, leading to hyperactivity and meltdowns
-
-❌ **Ads** - Teaches consumerism to kids who can't tell the difference between content and advertising
+- **Autoplay features** - Removes natural stopping points, making it nearly impossible for kids to stop on their own
+- **Fast-paced scene changes** - Overstimulates young brains and prevents them from processing what they're seeing
+- **Loud, jarring sounds** - Keeps their arousal level high, leading to hyperactivity and meltdowns
+- **Ads** - Teaches consumerism to kids who can't tell the difference between content and advertising
 
 If the app your child uses has even one of these, you're dealing with design choices that work against you - and against your child's natural development.
 
@@ -30,14 +27,11 @@ If the app your child uses has even one of these, you're dealing with design cho
 
 Instead of red flags, we built Storytime with green flags:
 
-✅ **Natural stopping points** - Activities have clear endings, making transitions peaceful
-
-✅ **Slow-paced with time to process** - Calm design that respects how young children actually think and learn
-
-✅ **Calm, gentle sounds** - Soothing audio that doesn't overstimulate
-
-✅ **No ads** - Zero commercial content, no manipulation, nothing to buy
-
+- Natural stopping points - Our activities don't have start and ending. Kida can play and stop anywhere they want. There are no points to lose, no levels to restart.
+- Slow-paced with time to process - Calm design that respects how young children actually think and learn
+- Calm, gentle sounds - Soothing audio that doesn't overstimulate
+- No ads - Zero commercial content, no manipulation, nothing to buy
+- 
 Storytime isn't just "better" - it's built differently from the ground up. It's a digital playground for creativity, not a system designed to capture attention at any cost.
 
 **[Start Your Free 7-Day Trial →]**
@@ -48,7 +42,7 @@ Storytime isn't just "better" - it's built differently from the ground up. It's 
 
 You'll know in the first session.
 
-The real test isn't what we tell you - it's what you notice with your own child.
+The real test isn't what we tell you, it's what you notice with your own child.
 
 **Watch what happens when you ask them to stop.**
 
