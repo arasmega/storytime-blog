@@ -28,7 +28,7 @@ Here are the red flags that make apps addictive and overstimulating:
 
 If the app your child uses has even one of these, you're dealing with design choices that work against you - and against your child's natural development.
 
-[Want the full list? Read more about app red flags →]
+[Want the full list? Read more about app red flags →](https://jomstorytime.com/stories/apps-red-flags)
 
 ## How is Storytime different?
 
