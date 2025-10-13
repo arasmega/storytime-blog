@@ -38,10 +38,10 @@ Instead of red flags, we built Storytime with green flags:
 - Slow-paced with time to process - Calm design that respects how young children actually think and learn
 - Calm, gentle sounds - Soothing audio that doesn't overstimulate
 - No ads - Zero commercial content, no manipulation, nothing to buy
-- 
+
 Storytime isn't just "better" - it's built differently from the ground up. It's a digital playground for creativity, not a system designed to capture attention at any cost.
 
-**[Start Your Free 7-Day Trial →]**
+**[Start Your Free 7-Day Trial →](https://jomstorytime.com/)**
 
 ## But how do I know it actually works?
 
@@ -59,7 +59,7 @@ That's when you'll know the design is different. That's when the guilt lifts.
 
 Some parents even say it's "boring" - and honestly? That's the highest compliment we get. It means we're not using tricks to hijack your child's attention.
 
-**[Try It Free for 7 Days →]**
+**[Try It Free for 7 Days →](https://jomstorytime.com/)**
 
 ## What if I forget to cancel?
 
@@ -83,7 +83,7 @@ Every thoughtful parent deserves screen time they can feel proud of. The questio
 
 The only question is: Why wait to find out if this works?
 
-**[Start Your Free 7-Day Trial - No Credit Card Required →]**
+**[Start Your Free 7-Day Trial - No Credit Card Required →](https://jomstorytime.com/)**
 
 ### Available on iOS and Android
-[App Store button] [Google Play button]
+[App Store button](https://apps.apple.com/us/app/storytime-digital-activities/id6446242246) [Google Play button](https://play.google.com/store/apps/details?id=com.ArasMega.StoryTime)
