@@ -6,7 +6,7 @@ author: "zulfadhli"
 excerpt: "Most kids apps are designed the same way slot machines are, to keep your child hooked, overstimulated, and asking for just one more."
 tags: ["Screen Time Addiction", "Green Flags"]
 series: "Healthy Screens"
-image: "https://images.unsplash.com/photo-1506704810770-7e9bbab1094b"
+image: "https://images.unsplash.com/photo-1522826657326-0466ba28c41f"
 ---
 
 # Am I ruining my child with screen time?
