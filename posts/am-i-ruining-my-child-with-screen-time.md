@@ -69,8 +69,7 @@ If Storytime works for your family, you can start a subscription right away:
 - **RM9.90/month** 
 - **RM99/year** (save over 15%)
 
-If it doesn't work? The trial just ends. No hassle, no follow-up, no guilt.
-_*No credit card free trial is only available at our website_
+If it doesn't work? The trial just ends. No hassle, no follow-up, no guilt.<br /> _***No credit card free trial** is only available at our website_
 
 ## Why start today?
 
