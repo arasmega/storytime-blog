@@ -84,4 +84,4 @@ The only question is: Why wait to find out if this works?
 **[Start Your Free 7-Day Trial →](https://jomstorytime.com/) - No Credit Card Required**
 
 ### Available on iOS and Android
-[App Store](https://apps.apple.com/us/app/storytime-digital-activities/id6446242246)     [Play Store](https://play.google.com/store/apps/details?id=com.ArasMega.StoryTime)
+[App Store](https://apps.apple.com/us/app/storytime-digital-activities/id6446242246) or [Play Store](https://play.google.com/store/apps/details?id=com.ArasMega.StoryTime)
