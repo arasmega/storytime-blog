@@ -1,12 +1,12 @@
 ---
 title: "Cuti Sekolah dan Cabaran Mengawal Screen Time Anak"
-subtitle: "The truth is, it is not you! It is the app"
+subtitle: "Bagaimana mengawalnya secara berhemah"
 date: "2026-01-02"
 author: "norazly"
-excerpt: "Most kids apps are designed the same way slot machines are, to keep your child hooked, overstimulated, and asking for just one more."
-tags: ["Screen Time Addiction", "Green Flags"]
+excerpt: "Bagi ibu-bapa, musim cuti sekolah ini membawa cabaran yang besar, iaitu peningkatan screen time dalam kalangan anak-anak mereka."
+tags: ["Screen Time Addiction", "School Holiday"]
 series: "Healthy Screens"
-image: "https://images.unsplash.com/photo-1522826657326-0466ba28c41f"
+image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f"
 ---
 Musim cuti sekolah kini datang kembali. Musim yang ditunggu-tunggu oleh kanak-kanak dan masa yang paling menggembirakan buat mereka. Musim cuti sekolah juga sering dianggap sebagai waktu untuk kanak-kanak berehat dan meluangkan lebih banyak masa di rumah. Mereka juga beranggapan mereka akan bebas melakukan aktiviti yang mereka tidak dapat lakukan semasa musim persekolahan. Namun, bagi ibu-bapa, musim ini membawa cabaran yang besar, iaitu peningkatan screen time dalam kalangan anak-anak mereka.
 
