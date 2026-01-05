@@ -43,7 +43,7 @@ Cuti sekolah juga membuka ruang untuk ibu bapa meluangkan *Screen Time* secara b
 Sepanjang cuti sekolah, ibu bapa boleh membina rutin membaca bersama anak sebagai pengimbang kepada *Screen Time*. Aktiviti membaca bukan sahaja menyokong perkembangan bahasa dan pemikiran, malah mengeratkan hubungan emosi antara ibu bapa dan anak.
 
 ## Rutin Harian
-Pengalaman menunjukkan bahawa kanak-kanak yang mempunyai rutin harian semasa cuti sekolah lebih mudah menerima apabila *Screen Time* tamat. Mereka tidak mudah mengamuk kerapa mengetahui aktiviti seterusnya yang telah dirancang. Sebagai langkah tambahan, penggunaan telefon pintar atau tablet secara bersendirian serta penggunaan skrin semasa wakti makan wajar dielakkan. 
+Pengalaman menunjukkan bahawa kanak-kanak yang mempunyai rutin harian semasa cuti sekolah lebih mudah menerima apabila *Screen Time* tamat. Mereka tidak mudah mengamuk kerana mengetahui aktiviti seterusnya yang telah dirancang. Sebagai langkah tambahan, penggunaan telefon pintar atau tablet secara bersendirian serta penggunaan skrin semasa wakti makan wajar dielakkan. 
 
 Perlu diingatkan bahawa pendekatan ini lebih sesuai untuk kanak-kanak tipikal yang berusia enam tahun ke bawah. Bagi kanak-kanak berkeperluan khas atau yang lebih berusia, strategi yang lebih khusus dan fleksibel mungkin diperlukan.
 
