@@ -5,6 +5,7 @@ date: "2025-10-11"
 author: "zulfadhli"
 excerpt: "What parents need to know on why screen time can be addictive"
 tags: ["Screen Addiction"]
+category: "Screen Tips"
 series: "Healthy Screens"
 image: "https://images.unsplash.com/photo-1620415064072-914373a92515"
 ---
