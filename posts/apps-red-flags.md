@@ -5,7 +5,7 @@ date: "2025-10-10"
 author: "zulfadhli"
 excerpt: "Characteristic of a bad and good apps for kids"
 tags: ["Red Flags", "Green Flags"]
-category: "Screen Tips"
+category: "Screen Time Tips"
 series: "Healthy Screens"
 image: "https://images.unsplash.com/photo-1506704810770-7e9bbab1094b"
 ---
