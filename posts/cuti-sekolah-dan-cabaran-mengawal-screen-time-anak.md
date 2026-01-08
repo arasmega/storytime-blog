@@ -2,7 +2,7 @@
 title: "Cuti Sekolah dan Cabaran Mengawal Screen Time Anak"
 subtitle: "Bagaimana mengawalnya secara berhemah"
 date: "2026-01-02"
-author: "norazly"
+author: "drnorazly"
 excerpt: "Bagi ibu-bapa, musim cuti sekolah ini membawa cabaran yang besar, iaitu peningkatan *Screen Time* dalam kalangan anak-anak mereka."
 tags: ["Screen Time Addiction", "School Holiday"]
 category: "Screen Time Tips"
