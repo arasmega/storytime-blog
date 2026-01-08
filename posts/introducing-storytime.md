@@ -7,7 +7,7 @@ excerpt: "When kids play, they are crafting stories. We hope to bring that same 
 tags: ["Product Launch", "App Announcement"]
 category: "Updates"
 series: ""
-image: "https://framerusercontent.com/images/h10mAA55QvL11LcckU7KpRnUZA.webp"
+image: "https://framerusercontent.com/images/SBCdM5GWKAudXjOvEHfT9EpN0.png"
 ---
 
 When kids play, they are crafting stories.
