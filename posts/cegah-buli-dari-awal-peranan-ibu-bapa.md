@@ -2,7 +2,7 @@
 title: "Cegah Buli dari Awal: Peranan Ibu Bapa"
 subtitle: "Pendekatan 3H untuk menanam empati"
 date: "2025-08-18"
-author: "norazly"
+author: "drnorazly"
 excerpt: "Gejala buli bukanlah perkara baru yang kita dengar malah sudah mengakar dalam kehidupan seharian terutama para murid di sekolah."
 tags: ["Buli", "Sekolah"]
 category: "Parenting"
