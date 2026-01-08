@@ -2,7 +2,7 @@
 title: "Introducing StoryTime!"
 subtitle: "A digital space to spark kids creativity!"
 date: "2023-11-01"
-author: "Zulfadhli"
+author: "zulfadhli"
 excerpt: "When kids play, they are crafting stories. We hope to bring that same experience to kids in StoryTime."
 tags: ["Product Launch", "App Announcement"]
 category: "Updates"
