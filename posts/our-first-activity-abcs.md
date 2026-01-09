@@ -1,5 +1,5 @@
 ---
-title: "Our first activity, “ABCs"
+title: "Our first activity, ABCs"
 subtitle: "Learning letter sound made fun"
 date: "2023-11-15"
 author: "zulfadhli"
