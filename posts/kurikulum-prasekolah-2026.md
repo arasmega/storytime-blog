@@ -7,7 +7,7 @@ excerpt: "Perubahan besar sistem pendidikan Pra Sekolah demi masa depan anak-ana
 tags: ["KP2026", "Kurikulum Prasekolah"]
 category: "Kp2026"
 series: "Preschool"
-image: "https://github.com/arasmega/storytime-blog/blob/main/assets/images/kp2026.jpg"
+image: "https://github.com/arasmega/storytime-blog/blob/main/assets/images/kp2026.jpg?raw=true"
 ---
 
 # Bila "3M" Bukan Lagi Raja: Selamat Datang ke Dunia Kurikulum Prasekolah 2026 (KP2026)
