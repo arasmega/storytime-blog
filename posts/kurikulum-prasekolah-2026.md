@@ -1,7 +1,7 @@
 ---
 title: "Kurikulum Prasekolah 2026 (KP2026)"
 subtitle: "Apa Ibu Bapa Perlu Tahu"
-date: "2025-03-03"
+date: "2026-03-03"
 author: "zulfadhli"
 excerpt: "Perubahan besar sistem pendidikan Pra Sekolah demi masa depan anak-anak"
 tags: ["KP2026", "Kurikulum Prasekolah"]
