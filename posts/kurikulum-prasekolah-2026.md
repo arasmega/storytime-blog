@@ -12,13 +12,9 @@ image: "https://github.com/arasmega/storytime-blog/blob/main/assets/images/kp202
 
 # Bila "3M" Bukan Lagi Raja: Selamat Datang ke Dunia Kurikulum Prasekolah 2026 (KP2026)
 
-Bayangkan situasi ini. Jam menunjukkan pukul 6 petang. Anda sedang bertungkus-lumus di dapur, sambil sebelah kaki menghalang si kecil daripada cuba memanjat rak buku. Untuk "membeli" sedikit masa, anda berikan dia buku latihan atau tablet dengan apps mengeja. "Sekejap je sayang, bagi Mama masak," kata anda.
+Zaman sudah berubah, dan begitu juga cara anak-anak kita belajar! Jika dahulu prasekolah banyak memfokuskan kepada "3M" (Membaca, Menulis, Mengira), Kurikulum Prasekolah 2026 (KP2026) membawa nafas baru yang lebih menyeluruh.
 
-Tiga puluh minit kemudian, anda panggil untuk makan. Tiba-tiba, 'malaikat kecil' anda berubah menjadi raksasa comel yang mengamuk. Menangis, menghentak kaki, malah ada barang yang melayang. Anda rasa bersalah. Anda rasa anda gagal sebagai ibu bapa.
-
-Tapi tunggu dulu. Ini bukan salah cara anda mendidik. Ia juga bukan sebab anak anda "manja". Ia adalah tentang sistem saraf dan bagaimana pendidikan awal sedang berubah. Anak-anak kita sedang membesar dalam dunia yang sangat pantas, dan sebab itulah **Kurikulum Prasekolah 2026 (KP2026)** diperkenalkan—untuk menyelamatkan "arkitek" otak mereka sebelum terlambat.
-
-Selamat datang ke era baru pendidikan prasekolah Malaysia, di mana "main" itu adalah kerja, dan "adab" adalah gred yang paling utama.
+Sebagai ibu bapa, jom kita fahami apa yang cuba dicapai oleh Kementerian Pendidikan Malaysia (KPM) melalui kurikulum terbaru ini.
 
 ## Mari Cakap Tentang Otak Anak Anda (Ianya Menakjubkan, Tapi Sangat Rapuh)
 
