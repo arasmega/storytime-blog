@@ -16,6 +16,8 @@ Zaman sudah berubah, dan begitu juga cara anak-anak kita belajar! Jika dahulu pr
 
 Sebagai ibu bapa, jom kita fahami apa yang cuba dicapai oleh Kementerian Pendidikan Malaysia (KPM) melalui kurikulum terbaru ini.
 
+[Muat Turun DSKP KP2026](https://jomstorytime.com/pdf/dskp-kurikulum-prasekolah_kp2026.pdf)
+
 ## 1. Fokus Bukan Lagi Sekadar Akademik
 
 KP2026 tidak lagi meletakkan beban akademik semata-mata di bahu si kecil. Sebaliknya, kurikulum ini dibina berasaskan konsep Insan Sejahtera. Matlamat utamanya adalah untuk melahirkan anak-anak yang:
@@ -49,3 +51,5 @@ Tiada lagi peperiksaan "stress" untuk anak berumur 4 hingga 6 tahun. Tahap pengu
 ## Kesimpulan
 
 KP2026 adalah langkah besar untuk memastikan anak-anak kita bukan sahaja "pandai" tetapi juga "baik" dan "bijak" berdikari. Mari kita beri sokongan penuh kepada guru-guru dalam menjayakan transisi ini demi masa depan anak-anak kita.
+
+[Muat Turun DSKP KP2026](https://jomstorytime.com/pdf/dskp-kurikulum-prasekolah_kp2026.pdf)
