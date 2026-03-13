@@ -2,7 +2,7 @@
 title: "StoryTime Menyapa Dunia Kanak-Kanak di Konvokesyen Bir Ali"
 subtitle: "Pembukaan baru untuk StoryTime!"
 date: "2026-03-13"
-author: "Nur Khairuna"
+author: "nur-khairuna"
 excerpt: "StoryTime hadir sebagai penaja di Takharruj Ceremony Bir Ali 2025, menyaksikan anak-anak berinteraksi dengan teknologi secara sihat dan bermakna."
 tags: ["StoryTime", "Pendidikan Awal Kanak-Kanak", "Screen Time", "Teknologi Kanak-Kanak"]
 category: "Parenting"
