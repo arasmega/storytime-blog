@@ -31,6 +31,9 @@ Dari pemerhatian kami, salah satu aktiviti digital yang menjadi tarikan mereka a
 
 *'Nak pergi main bola, kena pakai baju yang ni, kasut yang ni.'*
 
+![Aktiviti Dress-up StoryTime](https://ktsbzbfzsjqwrgpdrvrg.supabase.co/storage/v1/object/public/blog-images/storytime-menyapa-dunia-kanak-kanak-di-konvokesyen-bir-ali/storytime-kids-dress-up-character.webp)
+![Game Dress-up islamik](https://ktsbzbfzsjqwrgpdrvrg.supabase.co/storage/v1/object/public/blog-images/storytime-menyapa-dunia-kanak-kanak-di-konvokesyen-bir-ali/storytime-app-dress-up-boy-sports-outfit.webp)
+
 Seronok mendengar celoteh mereka. Ada sahaja cerita yang mereka ingin sampaikan. Bukan itu sahaja, aktiviti digital seperti Words yang berkonsepkan taman tema membuatkan anak-anak seronok bermain. Memasukkan huruf ke dalam rumah hantu, meletak huruf di atas carousel atau ferris wheel dan melihat huruf itu berpusing, kumpulkan huruf-huruf di hadapan tapak konsert sambil bernyanyi dan menyusun huruf membentuk nama mereka sendiri.
 
 Semasa anak-anak mencuba aktiviti digital StoryTime, ibu bapa ada mengawasi segala tindak-tanduk mereka. Ada yang memberi reaksi yang positif dan ada juga memberi respon yang sedikit skeptikal. Pihak kami memahami akan kerisauan ibu bapa terhadap anak menggunakan gadget secara berlebihan dan menjadi ketagih screen time. Namun, itulah tujuan utama StoryTime, **to end kids screen time addiction**. Aplikasi ini dibina bukanlah bertujuan untuk menambah beban ibu bapa tetapi meringankan kerisauan ibu bapa.
