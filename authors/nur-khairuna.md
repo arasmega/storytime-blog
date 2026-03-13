@@ -1,5 +1,5 @@
 ---
-name: "Khai"
+name: "Khairuna Syafiah"
 slug: "nur-khairuna"
 bio: "Head of StoryTime and COO"
 avatar: "/profile/khairuna.webp"
