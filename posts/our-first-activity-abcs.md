@@ -7,7 +7,7 @@ excerpt: "While “ABCs” is not designed to teach kids how to read, we designe
 tags: ["ABCs", "Reading"]
 category: "Updates"
 series: ""
-image: "https://framerusercontent.com/images/Ka04q80leitwUfShcqmXacKOkcM.jpg?scale-down-to=1024"
+image: "https://ktsbzbfzsjqwrgpdrvrg.supabase.co/storage/v1/object/public/blog-images/our-first-activity-abcs/cover.webp"
 ---
 Without doubt one of the concerns of every parent is our kids' ability to read. While “ABCs” is not designed to teach kids how to read, we designed it to teach kids the sounds of each alphabet. Which is essential for kids to know before they can start reading.
 
