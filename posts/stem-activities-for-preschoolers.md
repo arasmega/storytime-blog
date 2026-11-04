@@ -39,7 +39,7 @@ So no, hands-on science isn't just cute enrichment. It's foundational.
 
 ### **The single biggest mistake: turning it into schoolwork**
 
-If you take one thing from this article, take this. Experts are clear that maths instruction for young children [is not a paper-and-pencil experience](https://www.zerotothree.org/resource/stem-activities-for-toddlers/). Best practice in early STEM looks a lot like play and exploration, with children moving, doing, testing and discovering.
+If you take one thing from this article, take this. Experts are clear that maths instruction for young children [is not a paper-and-pencil experience](https://www.zerotothree.org/resource/stem-activities-for-toddlers/). Best practice in early STEM looks a lot like [play and exploration](/stories/meet-motion-our-latest-activity), with children moving, doing, testing and discovering.
 
 That means the pouring, the stacking, the knocking-over-and-rebuilding *is* the lesson. You do not need to add a worksheet at the end to make it count.
 
