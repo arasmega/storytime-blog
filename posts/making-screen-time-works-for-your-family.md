@@ -90,7 +90,7 @@ Create a dedicated space for screen time that feels intentional, not accidental.
 
 **3. The Magic of Timing**
 
-There's a reason your grandmother insisted on eating meals at the same time every day. Routine creates security. The same applies to screen time. Having predictable times (maybe after school, or while you prep dinner) removes the constant negotiation and helps kids develop a healthy relationship with technology.
+There's a reason your grandmother insisted on eating meals at the same time every day. Routine creates security. The same applies to screen time. Having [predictable times](/stories/cuti-sekolah-dan-cabaran-mengawal-screen-time-anak) (maybe after school, or while you prep dinner) removes the constant negotiation and helps kids develop a healthy relationship with technology.
 
 **Critical Safety Note**: Avoid screens one hour before bedtime and remove devices from bedrooms to protect sleep quality.
 
