@@ -86,7 +86,7 @@ The good news is that with proper support and intervention, children with dyslex
 **2. School Accommodations**
 
 - Extended time for tests and assignments
-- Audio books and reading assistance
+- [Audio books and reading assistance](/stories/am-i-ruining-my-child-with-screen-time)
 - Note-taking support
 - Modified homework assignments
 - Use of technology for writing and reading
