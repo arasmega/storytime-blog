@@ -43,6 +43,6 @@ So how can we embrace technology in a safe and healthy way? Look for low-stimula
 
 ![](https://ktsbzbfzsjqwrgpdrvrg.supabase.co/storage/v1/object/public/blog-images/what-makes-screen-addictive/image-2.webp)
 
-I hope we can all agree screens themselves are not the enemy – it's the nature of the content and how we use it that matters. By making informed choices about our kids’ digital activities, we can harness the benefits of technology while minimising the risks of addiction.
+I hope we can all agree screens themselves are not the enemy – it's the nature of the content and how we use it that matters. By making [informed choices about our kids’ digital activities](/stories/screen-time-guideline-for-parents), we can harness the benefits of technology while minimising the risks of addiction.
 
 This approach will equip our children with the skills they need to navigate an increasingly digital world in a healthy and productive manner.
