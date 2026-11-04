@@ -7,7 +7,7 @@ tags: []
 image: "https://ktsbzbfzsjqwrgpdrvrg.supabase.co/storage/v1/object/public/blog-images/how-mr-rogers-inspires-the-creation-of-storytime/cover.webp"
 ---
 
-My first encounter about screen time effects on kids happened years before I became a father. I stumbled upon a video showing why Mr Rogers's show has an un-cut and long one-take scene.
+My first encounter about [screen time effects on kids](/stories/am-i-ruining-my-child-with-screen-time) happened years before I became a father. I stumbled upon a video showing why Mr Rogers's show has an un-cut and long one-take scene.
 
 It's basically like this.
 
