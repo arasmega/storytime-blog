@@ -100,4 +100,4 @@ For days when you'd rather not print anything at all, [StoryTime](https://jomsto
 
 ## **Find More Free Worksheets**
 
-Looking for more? [Browse all our free printable worksheets](https://jomstorytime.com/worksheets?topic=numbers), sorted by age and topic.
+Looking for more? [Browse all our free printable worksheets](/worksheets/topic/numbers), sorted by age and topic.
