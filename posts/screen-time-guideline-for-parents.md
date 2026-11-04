@@ -7,7 +7,7 @@ tags: []
 image: "https://ktsbzbfzsjqwrgpdrvrg.supabase.co/storage/v1/object/public/blog-images/screen-time-guideline-for-parents/cover.webp"
 ---
 
-How much screen time is too much? At what age you can give screen to your kids? How to have better screen time for your kids? Here are American Academy of Child and Adolescent Psychiatry recommendation:
+How much screen time is too much? At what age you can give screen to your kids? How to have [better screen time](/stories/making-screen-time-works-for-your-family) for your kids? Here are American Academy of Child and Adolescent Psychiatry recommendation:
 
 1. Until 18 months of age limit screen use to video chatting along with an adult (for example, with a parent who is out of town).
 2. Between 18 and 24 months screen time should be limited to watching educational programming with a caregiver.
