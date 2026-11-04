@@ -31,7 +31,7 @@ The answer is not in choosing but in blending.
 
 We should mix it up.
 
-Set limits and boundaries, but don't obsess over screen time.
+Set limits and boundaries, but don't obsess over [screen time](/stories/cuti-sekolah-dan-cabaran-mengawal-screen-time-anak).
 
 Rather, see screen time as a tool in your bag.
 
