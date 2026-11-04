@@ -113,7 +113,7 @@ What makes Motion truly special is how it encourages children to create their ow
 
 **For Current Subscribers:**
 
-[Update](../update-storytime) your StoryTime app today to access Motion and begin your child's journey into the fascinating world of physics through play.
+[Update](/download) your StoryTime app today to access Motion and begin your child's journey into the fascinating world of physics through play.
 
 **For New Families:**
 
