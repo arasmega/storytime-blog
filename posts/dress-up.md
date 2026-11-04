@@ -69,7 +69,7 @@ As we approach each festival, we'll introduce new themed collections that helps 
 
 ## Ready to Start Dressing Up?
 
-**For existing users**: [Update](/update-storytime) your StoryTime app today to access the new Dress-Up activity and start exploring our collection of cultural and creative outfits.
+**For existing users**: [Update](/download) your StoryTime app today to access the new Dress-Up activity and start exploring our collection of cultural and creative outfits.
 
 **New to StoryTime?** [Download](/try-free) our app from the App Store or Google Play to join many Malaysian families already enjoying our educational activities. Experience how we're revolutionising digital playtime with culturally aware, developmentally appropriate content.
 
