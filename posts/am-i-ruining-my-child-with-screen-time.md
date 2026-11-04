@@ -38,7 +38,7 @@ Instead of red flags, we built Storytime with green flags:
 - Calm, gentle sounds - Soothing audio that doesn't overstimulate
 - No ads - Zero commercial content, no manipulation, nothing to buy
 
-Storytime isn't just "better" - it's built differently from the ground up. It's a digital playground for creativity, not a system designed to capture attention at any cost.
+Storytime isn't just "better" - it's built differently from the ground up. It's a [digital playground for creativity](/stories/what-is-creativity), not a system designed to capture attention at any cost.
 
 **[Start Your Free 7-Day Trial →](https://jomstorytime.com/)**
 
