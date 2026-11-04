@@ -98,7 +98,7 @@ Apps should be evaluated on: Active Learning (child generating responses, not ju
 - Encourage offline activities ("Now go find something red in your house!")
 - Don't send notifications (your three-year-old doesn't need push notifications)
 
-Non-addictive learning apps like Khan Academy Kids and PBS Kids excel at maintaining healthy balance of education and engagement. StoryTime also uses a "low dopamine" approach, engaging children without overwhelming their senses or relying on immediate gratification.
+Non-addictive learning apps like Khan Academy Kids and PBS Kids excel at maintaining healthy balance of education and engagement. StoryTime also uses a "[low dopamine](/stories/what-is-adhd)" approach, engaging children without overwhelming their senses or relying on immediate gratification.
 
 ## The Bottom Line: What First-Time Parents Need to Remember
 
