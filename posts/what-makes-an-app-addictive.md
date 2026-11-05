@@ -36,7 +36,7 @@ Remember that tantrum when you took away the iPad? When parents attempt to limit
 
 Your toddler isn't being manipulative. They're experiencing actual withdrawal from a neurochemical high. The app flooded their brain with feel-good chemicals, then you yanked away the source. Of course they're losing it.
 
-This is especially brutal for young children because young children tend to become addicted to playing mobile phones, video games, and social media more easily because their minds are premature and very vulnerable. Adults have a fighting chance against addictive design because our prefrontal cortex is (theoretically) fully developed. Your four-year-old? They're bringing a plastic spoon to a gunfight.
+This is especially brutal for young children because young children tend to become [addicted to playing mobile phones](/stories/what-makes-screen-addictive), video games, and social media more easily because their minds are premature and very vulnerable. Adults have a fighting chance against addictive design because our prefrontal cortex is (theoretically) fully developed. Your four-year-old? They're bringing a plastic spoon to a gunfight.
 
 ## How Apps Hook Your Kids: The Design Tricks You Need to Know
 Let's peek behind the curtain at how these apps work. Games are masters at giving us a sense of competence. They start with easy tasks, and early success triggers dopamine. Games rely on core loops: repetitive actions like collecting resources, followed by rewards.
