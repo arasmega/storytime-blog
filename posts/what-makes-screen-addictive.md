@@ -13,7 +13,7 @@ But before we move on into what makes screen addictive, we need to differentiate
 
 Just like drugs, we don’t get addicted to medications prescribed by doctors. But the misuse of drugs can lead to addiction.
 
-So how does content cause addiction?
+So how does [content cause addiction](/stories/what-makes-an-app-addictive)?
 
 # It starts with stimulation
 
