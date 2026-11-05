@@ -12,7 +12,7 @@ image: "https://images.unsplash.com/photo-1522826657326-0466ba28c41f"
 
 Here's the truth: **You're not the problem. The apps are.**
 
-Most kids' apps are designed the same way slot machines are - to keep your child hooked, overstimulated, and asking for "just one more." That's why it feels impossible to say no. That's why you feel guilty every time you hand over the device.
+Most kids' apps are designed the same way [slot machines](/stories/what-makes-an-app-addictive) are - to keep your child hooked, overstimulated, and asking for "just one more." That's why it feels impossible to say no. That's why you feel guilty every time you hand over the device.
 
 It's not a parenting failure. It's a design problem.
 
