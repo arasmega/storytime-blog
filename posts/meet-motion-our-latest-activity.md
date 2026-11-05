@@ -59,7 +59,7 @@ Through these features, children develop:
 
 • Open-ended exploration
 
-• Imaginative thinking through storytelling
+• [Imaginative thinking through storytelling](/stories/beyond-tapping-buttons-how-storytime-was-born)
 
 • Creative problem-solving
 
